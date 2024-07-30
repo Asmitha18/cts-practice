@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class EmployeeManagementSystem {
+public class EmployeeManagementSystem {
     private Employee[] employees;
     private int count;
 
